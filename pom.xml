@@ -205,14 +205,7 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
-         
-<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>localhost.localdomain-releases</name>
-        <url>http://10.113.35.15:8081/artifactory/libs-release-local</url>
-    </repository>
-</distributionManagement>
+      
          
          
   <scm>
